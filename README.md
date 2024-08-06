@@ -12,7 +12,7 @@
 
 ## 功能点
 
-![image-20231019145529087](https://renjia-oss.oss-cn-chengdu.aliyuncs.com/github/hsms/function_chart.png)
+![image-20231019145529087](./reImages/1.png)
 
 
 
@@ -20,13 +20,9 @@
 
 ## 功能界面预览
 
-![image-20231019150044222](https://renjia-oss.oss-cn-chengdu.aliyuncs.com/github/hsms/login_chat.png)
+![image-20231019150044222](./reImages/2.png)
 
-![image-20231019150430301](https://renjia-oss.oss-cn-chengdu.aliyuncs.com/github/hsms/finance_view_chat.png)
+![image-20231019150430301](./reImages/3.png)
 
-![image-20231019150446929](https://renjia-oss.oss-cn-chengdu.aliyuncs.com/github/hsms/finance_edit_chat.png)
-
-......
-
-
+![image-20231019150446929](./reImages/4.png)
 
